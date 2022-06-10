@@ -26,4 +26,4 @@
     GitHub Repository URL: https://github.com/dlock98/Dlocklear_horiseon.git
     Deployed URL: https://dlock98.github.io/Dlocklear_horiseon/
     
-<img src="./Downloads/Horiseon-website.jpg"
+[![Horiseon-website.jpg](https://i.postimg.cc/vHtZ4KF2/Horiseon-website.jpg)](https://postimg.cc/bsdhM3v1)
