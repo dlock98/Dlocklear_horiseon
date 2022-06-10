@@ -1,13 +1,13 @@
 # Dlocklear_horiseon
 
-Editing Starter Code to Complete Company Website
-  User Story
+##Editing Starter Code to Complete Company Website
+  ###User Story
 
     AS A marketing agency
     I WANT a codebase that follows accessibility standards
     SO THAT our own site is optimized for search engines
   
-  Acceptance Criteria
+  ###Acceptance Criteria
 
     GIVEN a webpage meets accessibility standards
     WHEN I view the source code
@@ -21,8 +21,9 @@ Editing Starter Code to Complete Company Website
     WHEN I view the title element
     THEN I find a concise, descriptive title
     
-    Submission
+   ##Submission
     
     GitHub Repository URL: https://github.com/dlock98/Dlocklear_horiseon.git
     Deployed URL: https://dlock98.github.io/Dlocklear_horiseon/
     
+<img src="./Downloads/Horiseon-website.jpg"
